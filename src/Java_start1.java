@@ -53,6 +53,7 @@ public class Java_start1 {
             }
             if(i == 7){
                 System.out.println("기회가 끝났습니다.");
+                System.out.println("게임 종료!");
             }
             System.out.println("남은 기회 : " + (7-i));
 
